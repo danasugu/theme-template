@@ -6,4 +6,5 @@ function anad_register_styles(){
 }
 
 add_action('wp_enqueue_scripts', 'anad_register_styles');
+
 ?>
