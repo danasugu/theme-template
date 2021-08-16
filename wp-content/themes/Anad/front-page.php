@@ -15,7 +15,11 @@
 	<!-- Bootstrap CSS-->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">  
 	<!-- Theme CSS -->
-	<link rel="stylesheet" href="/wp-content/themes/Anad/style.css">
+	<link rel="stylesheet" href="wp-content/themes/Anad/style.css">
+
+  <?php 
+  wp_head(); 
+  ?>
 
 </head> 
 
@@ -123,7 +127,7 @@
 	    </article>
 	    <footer class="footer text-center py-2 theme-bg-dark">
 		   
-            <p class="copyright"><a href="https://youtube.com/FollowAndrew">FollowAndrew</a></p>
+            <p class="copyright"><a href="https://youtube.com/FollowAndrew">Anad</a></p>
 		   
 	    </footer>
     
