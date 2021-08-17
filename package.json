@@ -1,0 +1,23 @@
+{
+  "name": "theme-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danasugu/theme-template.git"
+  },
+  "author": "DS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danasugu/theme-template/issues"
+  },
+  "homepage": "https://github.com/danasugu/theme-template#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.38.0"
+  }
+}
