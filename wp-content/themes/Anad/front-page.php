@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Blog Site Template">
-    <meta name="author" content="https://youtube.com/FollowAndrew">    
+    <meta name="author" content="DS">    
     <link rel="shortcut icon" href="images/logo.png"> 
     
     <!-- FontAwesome CSS-->
@@ -26,7 +26,7 @@
 <body>
     
     <header class="header text-center">	    
-	    <a class="site-title pt-lg-4 mb-0" href="index.html">SiteName.dev</a>
+	    <a class="site-title pt-lg-4 mb-0" href="index.html">BlogTemplate.dev</a>
         
 	    <nav class="navbar navbar-expand-lg navbar-dark" >
            
@@ -127,7 +127,7 @@
 	    </article>
 	    <footer class="footer text-center py-2 theme-bg-dark">
 		   
-            <p class="copyright"><a href="https://youtube.com/FollowAndrew">Anad</a></p>
+            <p class="copyright"><a href="https://danasugu.com">Anad</a></p>
 		   
 	    </footer>
     
